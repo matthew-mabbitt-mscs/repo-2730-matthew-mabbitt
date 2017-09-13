@@ -1,0 +1,12 @@
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\bin\Debug\Bakery Project.exe.config
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\bin\Debug\Bakery Project.exe
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\bin\Debug\Bakery Project.pdb
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\bin\Debug\Bakery Project.xml
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\obj\Debug\Mmabbitt1d1.vbprojResolveAssemblyReference.cache
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\obj\Debug\Bakery_Project.frmMain.resources
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\obj\Debug\Bakery_Project.Resources.resources
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\obj\Debug\Mmabbitt1d1.vbproj.GenerateResource.Cache
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\obj\Debug\Mmabbitt1d1.vbproj.CoreCompileInputs.cache
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\obj\Debug\Bakery Project.exe
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\obj\Debug\Bakery Project.xml
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Mmabbitt1d1\obj\Debug\Bakery Project.pdb
