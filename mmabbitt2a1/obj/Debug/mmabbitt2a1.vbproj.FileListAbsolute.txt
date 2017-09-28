@@ -1,0 +1,14 @@
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\obj\Debug\mmabbitt2a1.vbprojResolveAssemblyReference.cache
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\obj\Debug\mmabbitt2a1.frmMain.resources
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\obj\Debug\mmabbitt2a1.Resources.resources
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\obj\Debug\mmabbitt2a1.vbproj.GenerateResource.Cache
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\obj\Debug\mmabbitt2a1.vbproj.CoreCompileInputs.cache
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\bin\Debug\mmabbitt2a1.exe.config
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\bin\Debug\mmabbitt2a1.exe
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\bin\Debug\mmabbitt2a1.pdb
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\bin\Debug\mmabbitt2a1.xml
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\obj\Debug\mmabbitt2a1.exe
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\obj\Debug\mmabbitt2a1.xml
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\Comc2730Fall2017\mmabbitt2a1\obj\Debug\mmabbitt2a1.pdb
