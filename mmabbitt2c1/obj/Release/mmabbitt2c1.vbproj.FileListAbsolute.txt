@@ -1,0 +1,4 @@
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Release\mmabbitt2c1.Form1.resources
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Release\mmabbitt2c1.Resources.resources
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Release\mmabbitt2c1.vbproj.GenerateResource.Cache
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Release\mmabbitt2c1.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Debug\mmabbitt2c1.vbprojResolveAssemblyReference.cache
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Debug\mmabbitt2c1.Form1.resources
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Debug\mmabbitt2c1.Resources.resources
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Debug\mmabbitt2c1.vbproj.GenerateResource.Cache
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Debug\mmabbitt2c1.vbproj.CoreCompileInputs.cache
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\bin\Debug\mmabbitt2c1.exe.config
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\bin\Debug\mmabbitt2c1.exe
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\bin\Debug\mmabbitt2c1.pdb
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\bin\Debug\mmabbitt2c1.xml
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Debug\mmabbitt2c1.exe
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Debug\mmabbitt2c1.xml
+C:\Users\matt12\Documents\Visual Studio 2017\Projects\mmabbitt2c1\mmabbitt2c1\obj\Debug\mmabbitt2c1.pdb
